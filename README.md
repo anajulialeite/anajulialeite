@@ -5,7 +5,6 @@
 </div>
 
 
-<uls style="margin-bottom: 0">
   <li>Apaixonada por tecnologia e Acadêmica de <strong>Sistemas de Informação</strong></li>
   <li>Amante de um bom café 
 </ul>
