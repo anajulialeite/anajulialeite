@@ -19,7 +19,15 @@
 
 ## Contador de visitas
 
-![Visitas](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fanajulialeite%2Fseu_repositorio)
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{mmvonnseek}/count.svg" /></p> 
+<br>
+</div>
+
+## I need energy
+
+<p><a href="https://www.buymeacoffee.com/maxmullers17"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="maxmullers17" /></a></p><br><br>
 
           
           
