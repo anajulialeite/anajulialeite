@@ -8,7 +8,6 @@
 <uls style="margin-bottom: 0">
   <li>Apaixonada por tecnologia e Acadêmica de <strong>Sistemas de Informação</strong></li>
   <li>Amante de um bom café 
-  <li>Atualmente trabalhando na <a href="https://www.castgroup.com.br/"><strong>Cast Group</strong></a> como desenvolvedora front-end</li>
 </ul>
 <hr>
 
