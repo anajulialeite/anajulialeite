@@ -1,5 +1,17 @@
 ### Hi there Eu sou a Ana Júlia Leite 👋
 
+ <div align="center">
+  <img src="header.svg"  >
+</div>
+
+
+<uls style="margin-bottom: 0">
+  <li>Apaixonada por tecnologia e Acadêmica de <strong>Sistemas de Informação</strong></li>
+  <li>Amante de um bom café 
+  <li>Atualmente trabalhando na <a href="https://www.castgroup.com.br/"><strong>Cast Group</strong></a> como desenvolvedora front-end</li>
+</ul>
+<hr>
+
 ## Estou aprendendo
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
