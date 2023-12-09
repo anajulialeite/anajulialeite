@@ -18,7 +18,7 @@
 
                .line {
                      border-right: 2px solid rgba(255, 255, 255, 0.75);
-                     color: #c9d1d9;
+                     color: #00FF00;
                      font-family: "Special Elite", monospace;
                      font-size: 2rem;
                      text-align: center;
