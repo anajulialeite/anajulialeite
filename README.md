@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="header.svg"  >
+</div>
+
 ### Hi there Eu sou a Ana Júlia Leite 👋
 
   <li>Apaixonada por tecnologia e Acadêmica de <strong>Sistemas de Informação</strong></li>
