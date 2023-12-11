@@ -4,7 +4,8 @@
 
 ### Hi there Eu sou a Ana Júlia Leite 👋
 
-  <li>Apaixonada por tecnologia e Acadêmica de <strong>Sistemas de Informação</strong></li>
+  <li>Apaixonada por tecnologia 
+  <li>Acadêmica de <strong>SIS</strong>
   <li>Amante de um bom café 
 </ul>
 <hr>
