@@ -4,6 +4,7 @@
 
 ### Hi there Eu sou a Ana Júlia Leite 👋
 
+<ul>
   <li>Apaixonada por tecnologia 
   <li>Acadêmica de <strong>SIS</strong>
   <li>Amante de um bom café 
@@ -17,6 +18,7 @@
 
 ## Contato
 
+<div>
 <a href="https://www.linkedin.com/in/ana-júlia-de-lima-aguiar-leite-009a58209/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href = "mailto:leite.anajulia25@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
