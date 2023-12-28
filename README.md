@@ -1,6 +1,8 @@
-<div align="center">
-  <img src="header.svg">
-</div>
+<!--Title @AnaJúliaLeite-->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF1493&random=false&width=435&lines=Ol%C3%A1%2C+Me+chamo+Ana+Júlia.+;Bem+vindo+ao+meu+perfil+no+GitHub!)](https://git.io/typing-svg)
+<!--<div align="center">
+</div>-->
+
 
 
 ### Hi there Eu sou a Ana Júlia Leite 👋
