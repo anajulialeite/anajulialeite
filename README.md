@@ -43,7 +43,11 @@
 
 ## I need energy
 
-<p> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="maxmullers17" /></a></p><br><br>
+<p>
+  <img align="left" src="https://commons.wikimedia.org/wiki/File:Deus_Coffee.png" height="240" width="240"/></a>
+</p>
+
+<p>  <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" /></a></p><br><br>
 
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=50&size=25&pause=1000&color=FF1493&center=true&width=1000&lines=-------------------------------------------------------------------------------------------------" alt="Typing SVG" /></a>
