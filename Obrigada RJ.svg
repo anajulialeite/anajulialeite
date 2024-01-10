@@ -11,7 +11,7 @@
           font-family: "Comic Sans", "Comic Sans MS", Chalkboard, ChalkboardSE-Regular, "Marker Felt", Purisa, "URW Chancery L", cursive, sans-serif !important;
           color: DeepPink;
           position: absolute;
-          font-size: 1.30em;
+          font-size: 1.40em;
           width: 100%;
           height: 100%;
           margin: 0;
