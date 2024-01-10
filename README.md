@@ -41,9 +41,10 @@
 <br>
 </div>
 
-## I need energy
+## I need energy, by me a coffee!!!
 
-<p>  <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210"></p><br><br>
+![images](https://github.com/anajulialeite/anajulialeite/assets/139260194/6f457ef2-32bd-4fed-afac-68b3795e79d6)
+
 
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=50&size=25&pause=1000&color=FF1493&center=true&width=1000&lines=-------------------------------------------------------------------------------------------------" alt="Typing SVG" /></a>
