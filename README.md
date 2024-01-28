@@ -47,23 +47,23 @@
 
     while (true)
     {
-    string coffee = "Situação, Tomar Café.";
+    string coffee = "Cofee situation.";
     
-    if (coffee == "Está Vazio")
+    if (coffee == "Empaty")
     {
-        Console.WriteLine("Encher");
+        Console.WriteLine("Fill");
         break;
     }
-    else if (coffee == "Cheio")
+    else if (coffee == "Full")
     {
-        Console.WriteLine("Beber");
+        Console.WriteLine("Drink");
         break;
     }
     else
     {
-        Console.WriteLine("Está tudo ok");
+        Console.WriteLine("It's ok");
     }
-    Console.WriteLine("Então quero mais...");
+    Console.WriteLine("So proceed...");
     Console.ReadKey();
     }
 
