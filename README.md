@@ -10,6 +10,8 @@
 <ul>
   <li>Apaixonada por tecnologia 
   <li>Acadêmica de <strong>SIS</strong>
+  <li>No momento apenas estudando e focando em HTML5, CSS3, Boostrap e C# 
+  <li>Um pouco encantada por C#
   <li>Amante de um bom café 
 </ul>
 <hr>
@@ -22,7 +24,7 @@
 ## Contato
 
 <div>
-<a href="https://www.linkedin.com/in/ana-júlia-de-lima-aguiar-leite-009a58209/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href = "mailto:leite.anajulia25@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/ana-júlia-de-lima-aguiar-leite-009a58209/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href = "mailto:leite.anajulia25@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href="https://wa.me/+55061996773513" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
 </div>
 
 
@@ -42,6 +44,28 @@
 </div>
 
 ## I need energy, by me a coffee!!!
+
+    while (true)
+    {
+    string coffee = "Situação, Tomar Café.";
+    
+    if (coffee == "Está Vazio")
+    {
+        Console.WriteLine("Encher");
+        break;
+    }
+    else if (coffee == "Cheio")
+    {
+        Console.WriteLine("Beber");
+        break;
+    }
+    else
+    {
+        Console.WriteLine("Está tudo ok");
+    }
+    Console.WriteLine("Então quero mais...");
+    Console.ReadKey();
+    }
 
 ![images](https://github.com/anajulialeite/anajulialeite/assets/139260194/6f457ef2-32bd-4fed-afac-68b3795e79d6)
 
