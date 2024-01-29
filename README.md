@@ -24,7 +24,7 @@
 ## Contato
 
 <div>
-<a href="https://www.linkedin.com/in/ana-júlia-de-lima-aguiar-leite-009a58209/" target="_blank" class="link"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" class="link"></a> <a href = "mailto:leite.anajulia25@gmail.com" target="_blank" class="link"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" class="link"></a> <a href="https://wa.me/+55061996773513" target="_blank" target="_blank" class="link"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank" target="_blank" class="link"></a> 
+<a href="https://www.linkedin.com/in/ana-júlia-de-lima-aguiar-leite-009a58209/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href = "mailto:leite.anajulia25@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href="https://wa.me/+55061996773513" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
 </div>
 
 
