@@ -30,9 +30,10 @@
 ## Estatística
 
 <div>
-<a href="https://github.com/anajulialeite">
+<a href="https://github.com/anajulialeite"> </a>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anajulialeite&layout=compact&langs_count=7&theme=synthwave"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anajulia&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+</div>
 
 ## Contador de visitas
 
@@ -43,6 +44,7 @@
 
 ## I need energy, by me a coffee!!!
 
+    ...C#
     while (true)
     {
     string coffee = "Cofee situation.";
@@ -64,6 +66,8 @@
     Console.WriteLine("So proceed...");
     Console.ReadKey();
     }
+    //let's have coffee
+    ...
 
 ![images](https://github.com/anajulialeite/anajulialeite/assets/139260194/6f457ef2-32bd-4fed-afac-68b3795e79d6)
 
