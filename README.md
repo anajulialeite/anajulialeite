@@ -11,7 +11,6 @@
   <li>Apaixonada por tecnologia</li>
   <li>Acadêmica de <strong>SIS</strong></li>
   <li>No momento apenas estudando e focando em HTML5, CSS3, Bootstrap e C#</li>
-  <li>Encantada por C#</li>
   <li>Amante de um bom café</li>
 </ul>
 <hr>
