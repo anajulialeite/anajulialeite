@@ -1,10 +1,10 @@
 <!--Title @AnaJúliaLeite-->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF1493&random=false&width=435&lines=Ol%C3%A1%2C+Me+chamo+Ana+Júlia.+;Seja+Bem+vindo(a)+ao+meu+GitHub!)](https://git.io/typing-svg)
-<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=50&size=25&pause=1000&color=FF1493&center=true&width=1000&lines=-------------------------------------------------------------------------------------------------" alt="Typing SVG" /></a>
-</p> 
+<p align="center"></p> 
 <!--<div align="center">
 </div>-->
+<hr>
+
 ### Hi there Eu sou a Ana Júlia Leite 👋
 
 <hr>
