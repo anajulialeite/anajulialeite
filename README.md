@@ -1,19 +1,21 @@
 <!--Title @AnaJúliaLeite-->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF1493&random=false&width=435&lines=Ol%C3%A1%2C+Me+chamo+Ana+Júlia.+;Seja+Bem+vindo(a)+ao+meu+GitHub!)](https://git.io/typing-svg)
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=50&size=25&pause=1000&color=FF1493&center=true&width=1000&lines=-------------------------------------------------------------------------------------------------" alt="Typing SVG" /></a>
+</p> 
 <!--<div align="center">
 </div>-->
-
-
-
 ### Hi there Eu sou a Ana Júlia Leite 👋
 
+<hr>
 <ul>
   <li>Apaixonada por tecnologia</li>
   <li>Acadêmica de <strong>SIS</strong></li>
   <li>No momento apenas estudando e focando em HTML5, CSS3, Bootstrap e C#</li>
   <li>Amante de um bom café</li>
 </ul>
-<hr>
+
+
 
 ## Estou aprendendo
 
@@ -66,6 +68,7 @@
     }
     //let's have coffee
     ...
+  
 
 ![images](https://github.com/anajulialeite/anajulialeite/assets/139260194/6f457ef2-32bd-4fed-afac-68b3795e79d6)
 
@@ -73,8 +76,6 @@
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=50&size=25&pause=1000&color=FF1493&center=true&width=1000&lines=-------------------------------------------------------------------------------------------------" alt="Typing SVG" /></a>
 </p> 
-
-
 
 <div align="center">
 
