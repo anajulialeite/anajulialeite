@@ -69,8 +69,7 @@
     //let's have coffee
     ...
   
-
-![images](https://github.com/anajulialeite/anajulialeite/assets/139260194/6f457ef2-32bd-4fed-afac-68b3795e79d6)
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="left" alt="Computador IuriCode">
 
 
 <p align="center">
@@ -84,7 +83,5 @@
 
 
 <div align="center">
-    
-
 </div>
 
