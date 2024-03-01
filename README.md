@@ -79,6 +79,13 @@
     }
     //let's have coffee
     ...
+
+<div>
+  <a href="#">
+    <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+  </a>
+</div>
+
   
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="300px" width="300px" align="left" alt="Computador IuriCode">
 
