@@ -85,7 +85,6 @@
     <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
   </a>
 </div>
-
   
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="300px" width="300px" align="left" alt="Computador IuriCode">
 
@@ -97,7 +96,7 @@
 <div align="center">
 
 <img height="30" alt="Thanks for visiting me" width="100%" src="https://github.com/anajulialeite/anajulialeite/blob/main/Obrigada%20RJ.svg" />
-<br />
+<br></br>
 
 
 <div align="center">
