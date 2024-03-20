@@ -74,7 +74,7 @@
     {
         Console.WriteLine("It's ok");
     }
-    Console.WriteLine("So proceed...");
+    Console.WriteLine("So proceed... ☕");
     Console.ReadKey();
     }
     //let's have coffee
