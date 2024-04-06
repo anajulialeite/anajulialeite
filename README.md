@@ -5,7 +5,7 @@
 </div>-->
 <hr>
 
-### Hi there Eu sou a Ana Júlia Leite 👋
+### Eu sou a Ana Júlia Leite 👋
 
 <hr>
 <ul>
