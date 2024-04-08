@@ -1,6 +1,5 @@
 <!--Title @AnaJúliaLeite-->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF1493&random=false&width=435&lines=Ol%C3%A1%2C+meu+nome+é+Ana+Júlia.+;Seja+Bem+vindo(a)+ao+meu+GitHub!)](https://git.io/typing-svg)
-<p align="center"></p> 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&pause=1000&color=FF1493&random=false&width=435&lines=Meu+nome+%C3%A9+Ana+J%C3%BAlia.+;Seja+Bem+vindo(a)+ao+meu+GitHub!" alt="Typing SVG" /></a>
 <!--<div align="center">
 </div>-->
 <hr>
