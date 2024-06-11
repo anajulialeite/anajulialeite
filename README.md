@@ -48,7 +48,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnet
 <div>
 <a href="https://github.com/anajulialeite"> </a>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anajulialeite&layout=compact&langs_count=7&theme=jolly"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=anajulialeite&show_icons=true&theme=&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=anajulialeite&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
 <img height="193em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=anajulialeite&theme=jolly"/>
 <p align="left" dir="auto">
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/050c345844964c5d0ba6bfb574e5d0a79c61b1afcbc91c57ab311bc523c318a7/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d36352673656374696f6e3d666f6f746572"><img src="https://camo.githubusercontent.com/050c345844964c5d0ba6bfb574e5d0a79c61b1afcbc91c57ab311bc523c318a7/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d36352673656374696f6e3d666f6f746572" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;height=65&amp;section=footer" style="max-width: 100%;"></a>
