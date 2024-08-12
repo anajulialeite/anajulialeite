@@ -10,7 +10,8 @@
 <ul>
   <li>Apaixonada por tecnologia</li>
   <li>Acadêmica de <strong>SIS</strong></li>
-  <li>No momento apenas estudando e focando em <strong>HTML5, CSS3, JavaScrip e C#</strong></li>
+  <li><strong>Programadora e desenvolvedora Web<strong> iniciante
+  <li>Dev. C#</strong></li>
   <li><strong>Crio seu perfil do GitHub, seu currículo no Linkedin e faço seu Portifólio Profissional, entre em contato!</strong>
   <li>Apaixonada por um bom café ☕</li>
 </ul>
