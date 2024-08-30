@@ -18,7 +18,7 @@
 
 
 
-## Estou aprendendo
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Estou aprendendo
 <img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/> <img 
@@ -52,7 +52,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnet
  <td><img alt="GitHub User's stars" src="https://img.shields.io/github/stars/anajulialeite"></td>
 </div>
 
-## Estatística
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Estatística
 
 <div>
 <a href="https://github.com/anajulialeite"> </a>
