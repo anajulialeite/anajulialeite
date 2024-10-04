@@ -59,6 +59,9 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnet
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anajulialeite&layout=compact&langs_count=7&theme=jolly"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anajulialeite&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
 <img height="193em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=anajulialeite&theme=jolly"/>
+  
+![](https://github-widgetbox.vercel.app/api/profile?username=anajulialeite&data=followers,repositories,stars,commits&theme=nautilus)
+
 <p align="left" dir="auto">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" </>
 </p>
