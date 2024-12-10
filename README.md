@@ -10,7 +10,7 @@
 <ul>
   <li>Apaixonada por tecnologia</li>
   <li>Acadêmica de <strong>SIS</strong></li>
-  <li><strong>Programadora Front-end</strong></li>
+  <li><strong>Programadora Back-end</strong></li>
   <li><strong>Dev. C#</strong></li>
   <li><strong>Crio seu perfil do GitHub, seu currículo no Linkedin e faço seu Portifólio Profissional, entre em contato!</strong></li>
   <li>Apaixonada por um bom café ☕</li>
