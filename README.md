@@ -66,7 +66,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnet
 <div>
 <a href="https://github.com/anajulialeite"> </a>
 <img height="150em" src="https://img.shields.io/badge/ASP.NET%20-Developer-blueviolet?style=for-the-badge"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anajulialeite&layout=compact&langs_count=15&theme=jolly"/>
+<img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anajulialeite&layout=compact&langs_count=15&theme=jolly"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anajulialeite&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
 <img height="193em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=anajulialeite&theme=jolly"/>
   
