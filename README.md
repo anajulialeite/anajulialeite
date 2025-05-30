@@ -67,7 +67,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnet
 <a href="https://github.com/anajulialeite"> </a>
 <img height="150em" src="https://img.shields.io/badge/ASP.NET%20-Developer-blueviolet?style=for-the-badge"/>
 <img height="280em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anajulialeite&layout=compact&cache_seconds=1800&langs_count=20&show_icons=true&title_color=B77EFF&icon_color=9640FF&text_color=fff&bg_color=30,DB1DE5,220140"/>
-<img height="250em" src="https://github-readme-stats.vercel.app/api?username=anajulialeite&show_icons=true&cache_seconds=1800&count_private=true&disable_animations=false&title_color=B77EFF&icon_color=9640FF&text_color=fff&bg_color=30,220140,DB1DE5"/>
+<img height="240em" src="https://github-readme-stats.vercel.app/api?username=anajulialeite&show_icons=true&cache_seconds=1800&count_private=true&disable_animations=false&title_color=B77EFF&icon_color=9640FF&text_color=fff&bg_color=30,220140,DB1DE5"/>
   
 ![](https://github-widgetbox.vercel.app/api/profile?username=anajulialeite&data=followers,repositories,stars,commits&theme=nautilus)
 
