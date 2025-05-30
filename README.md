@@ -10,13 +10,13 @@
 <ul>
   <li>Apaixonada por tecnologia</li>
   <li>Acadêmica de <strong>SIS</strong></li>
-  <li><strong>Programadora Back-end</strong></li>
-  <li><strong>Dev. C#</strong></li>
-  <li><strong>Crio seu perfil do GitHub, seu currículo no Linkedin e faço seu Portifólio Profissional, entre em contato!</strong></li>
+  <li><strong>Desenvolvedora C# com foco em ASP.NET</strong></li>
+  <li><strong>Estudante dedicada, sempre criando projetos práticos</strong></li>
+  <li><strong>Entusiasta de UI/UX, criatividade e organização</strong></li>
+  <li><strong>Transformo ideias em experiências digitais incríveis</strong></li>
+  <li><strong>Crio seu perfil do GitHub, seu currículo no Linkedin e faço seu Portfólio Profissional, entre em contato!</strong></li>
   <li>Apaixonada por um bom café ☕</li>
 </ul>
-
-
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Estou aprendendo
 <img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif"/>
@@ -91,7 +91,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnet
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anajulialeite/anajulialeite/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anajulialeite/anajulialeite/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/anajulialeite/anaulialeite/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/anajulialeite/anajulialeite/output/github-contribution-grid-snake.svg">
 </picture>
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=50&size=25&pause=1000&color=007107&center=true&width=1000&lines=-------------------------------------------------------------------------------------------------" alt="Typing SVG" /></a>
@@ -105,7 +105,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnet
     {
     string coffee = "Cofee situation.";
     
-    if (coffee == "Empaty")
+    if (coffee == "Empty")
     {
         Console.WriteLine("Fill");
         break;
