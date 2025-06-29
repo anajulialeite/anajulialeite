@@ -5,13 +5,9 @@
 
 <!--Title @AnaJúliaLeite-->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Itim&pause=1000&color=de59c2&random=false&width=435&lines=Meu+nome+%C3%A9+Ana+J%C3%BAlia.+;Seja+Bem+vindo(a)+ao+meu+GitHub!" alt="Typing SVG" /></a>
+
 <!--<div align="center">
 </div>-->
-<hr>
-
-### Eu sou a Ana Júlia Leite 👋
-
-<hr>
 <ul>
   <li>Apaixonada por tecnologia</li>
   <li>Acadêmica de <strong>SIS</strong></li>
