@@ -150,10 +150,12 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnet
 
 [![Play Violet the Organ Grinder](https://img.shields.io/badge/Play_Violet_the_Organ_Grinder-%23513592?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/09Om6c15poPyH0UNTpXJBu)
 
-<h1 align="center">💜 Eu sou a Ana Júlia Leite! 💜</h1>
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/anajulialeite/anajulialeite/main/LS.png" alt="Ana Júlia Logo" width="32" height="32" />
+  Eu sou a Ana Júlia Leite!
+  <img src="https://raw.githubusercontent.com/anajulialeite/anajulialeite/main/LS.png" alt="Ana Júlia Logo" width="32" height="32" />
+</h1>
 <h3 align="center">Dev com alma roxa • Back-end em .NET • movida a ☕ e Purple Rain 🎸</h3>
-
-
 
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=50&size=25&pause=1000&color=a3084c&center=true&width=1000&lines=-------------------------------------------------------------------------------------------------" alt="Typing SVG" /></a>
