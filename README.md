@@ -43,11 +43,39 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnet
 
 ## 🗨️ Contato
 
-<div>
-<a href="https://anajulialeite.github.io/Meu_Portifolio/" title="Portfolio"><img alt="Email"  src="https://img.shields.io/badge/website-f59042?style=for-the-badge&logo=About.me&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/ana-j%C3%BAlia-de-lima-aguiar-leite-009a58209/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href = "mailto:leite.anajulia25@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href="https://wa.me/+55061996773513" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> <a href="https://discord.com/users/Ana#Júlia#9932" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> <a href="https://www.instagram.com/julindaleite/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <a target="_blank" rel="noopener noreferrer" href="https://telegram.me/AnaJuliaLeite">
-<img src="https://img.shields.io/badge/telegram-a?logo=telegram&color=30ADED&logoColor=white&style=for-the-badge" alt="Telegram" />
-<a href="https://github.com/anajulialeite" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+<p align="center">
+  <a href="https://seu-portfolio.com" style="text-decoration:none" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Portf%C3%B3lio-%23B77EFF?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfólio"/>
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/anajulialeite" style="text-decoration:none" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-%239640FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="mailto:seuemail@email.com" style="text-decoration:none" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/E-mail-%237D00FF?style=for-the-badge&logo=mail&logoColor=white" alt="E-mail"/>
+  </a>
+  &nbsp;
+  <a href="https://wa.me/seunumero" style="text-decoration:none" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/WhatsApp-%236A00D9?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+  &nbsp;
+  <a href="https://discord.gg/seucodigo" style="text-decoration:none" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Discord-%235600B8?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/anajulialeite" style="text-decoration:none" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Instagram-%2344008A?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  &nbsp;
+  <a href="https://t.me/anajulialeite" style="text-decoration:none" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Telegram-%232F0061?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/anajulialeite" style="text-decoration:none" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-%231C003F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
  [![GitHub followers](https://img.shields.io/github/followers/anajulialeite.svg?style=social&label=Follow&maxAge=30000&r=5465465)](https://github.com/anajulialeite?tab=followers)
  <td><img alt="GitHub User's stars" src="https://img.shields.io/github/stars/anajulialeite"></td>
