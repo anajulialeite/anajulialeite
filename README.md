@@ -4,16 +4,11 @@
 </p>
 
 <!--Title @AnaJúliaLeite-->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Itim&pause=1000&color=513592&random=false&width=435&lines=Meu+nome+%C3%A9+Ana+J%C3%BAlia.+;Seja+Bem+vindo(a)+ao+meu+GitHub!" alt="Typing SVG" /></a>
-
-<hr>
-
-#  💜 Eu sou a Ana Júlia Leite 💜
-
-<hr>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Itim&pause=1000&color=513592&width=435&lines=Oi,+eu+sou+a+Ana+J%C3%BAlia!;Bem-vindo(a)+ao+meu+GitHub!;Desenvolvedora+C%23+e+apaixonada+por+tecnologia." alt="Typing SVG" />
+</p>
 
 <ul>
-  <li>Apaixonada por tecnologia</li>
   <li>Acadêmica de <strong>SIS</strong></li>
   <li><strong>Desenvolvedora C# com foco em ASP.NET</strong></li>
   <li><strong>Estudante dedicada, sempre criando projetos práticos</strong></li>
