@@ -150,6 +150,9 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnet
 
 [![Play Violet the Organ Grinder](https://img.shields.io/badge/Play_Violet_the_Organ_Grinder-%23513592?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/09Om6c15poPyH0UNTpXJBu)
 
+<h1 align="center">💜 Eu sou a Ana Júlia Leite! 💜</h1>
+<h3 align="center">Dev com alma roxa • Back-end em .NET • movida a ☕ e Purple Rain 🎸</h3>
+
 
 
 <p align="center">
