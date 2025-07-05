@@ -1,6 +1,6 @@
-<!-- HEADER ANIMATION com variações de roxo -->
+<!-- HEADER ANIMATION com as cores dos GitHub Stats -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:F3A8FC,50:DB1DE5,100:8C1E9E&section=header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:DB1DE5,50:220140,100:DB1DE5&section=header" width="100%"/>
 </p>
 
 <!--Title @AnaJúliaLeite-->
@@ -158,7 +158,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnet
   <img height="30" alt="Thanks for visiting me" width="100%" src="https://github.com/anajulialeite/anajulialeite/blob/main/Obrigada%20RJ.svg" />
 </div>
 
-<!-- FOOTER ANIMATION com variações de roxo -->
+<!-- FOOTER ANIMATION com as cores dos GitHub Stats -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:F3A8FC,50:DB1DE5,100:8C1E9E&section=footer&reversal=true" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:DB1DE5,50:220140,100:DB1DE5&section=footer&reversal=true" width="100%"/>
 </p>
