@@ -1,5 +1,10 @@
+<!-- HEADER ANIMATION (Radical Theme) -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:FF005C,50:B62BFF,100:141321&section=header" width="100%"/>
+</p>
+
 <!--Title @AnaJúliaLeite-->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Itim&pause=1000&color=de59c2&random=false&width=435&lines=Meu+nome+%C3%A9+Ana+J%C3%BAlia.+;Seja+Bem+vindo(a)+ao+meu+GitHub!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Itim&pause=1000&color=513592&random=false&width=435&lines=Meu+nome+%C3%A9+Ana+J%C3%BAlia.+;Seja+Bem+vindo(a)+ao+meu+GitHub!" alt="Typing SVG" /></a>
 <!--<div align="center">
 </div>-->
 <hr>
@@ -143,3 +148,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnet
 <br></br>
 <div align="center">
 </div>
+
+<!-- FOOTER ANIMATION (Radical Theme) -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:FF005C,50:B62BFF,100:141321&section=footer&reversal=true" width="100%"/>
+</p>
