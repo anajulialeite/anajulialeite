@@ -62,10 +62,9 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnet
 <a href="https://www.linkedin.com/in/ana-j%C3%BAlia-de-lima-aguiar-leite-009a58209/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href = "mailto:leite.anajulia25@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href="https://wa.me/+55061996773513" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> <a href="https://discord.com/users/Ana#Júlia#9932" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> <a href="https://www.instagram.com/julindaleite/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <a target="_blank" rel="noopener noreferrer" href="https://telegram.me/AnaJuliaLeite">
 <img src="https://img.shields.io/badge/telegram-a?logo=telegram&color=30ADED&logoColor=white&style=for-the-badge" alt="Telegram" />
 <a href="https://github.com/anajulialeite" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-  
+
  [![GitHub followers](https://img.shields.io/github/followers/anajulialeite.svg?style=social&label=Follow&maxAge=30000&r=5465465)](https://github.com/anajulialeite?tab=followers)
  <td><img alt="GitHub User's stars" src="https://img.shields.io/github/stars/anajulialeite"></td>
-</div>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Estatística
 
@@ -73,6 +72,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnet
 <a href="https://github.com/anajulialeite"> </a>
 <img height="280em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anajulialeite&layout=compact&cache_seconds=1800&langs_count=20&show_icons=true&title_color=B77EFF&icon_color=9640FF&text_color=fff&bg_color=30,DB1DE5,220140"/>
 <img height="240em" src="https://github-readme-stats.vercel.app/api?username=anajulialeite&show_icons=true&cache_seconds=1800&count_private=true&disable_animations=false&title_color=B77EFF&icon_color=9640FF&text_color=fff&bg_color=30,220140,DB1DE5"/>
+</div>
   
 ![](https://github-widgetbox.vercel.app/api/profile?username=anajulialeite&data=followers,repositories,stars,commits&theme=nautilus)
 
@@ -88,16 +88,17 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnet
 
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=50&size=25&pause=1000&color=007107&center=true&width=1000&lines=-------------------------------------------------------------------------------------------------" alt="Typing SVG" /></a>
-</p> 
+</p>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anajulialeite/anajulialeite/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anajulialeite/anajulialeite/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/anajulialeite/anajulialeite/output/github-contribution-grid-snake.svg" />
 </picture>
+
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=50&size=25&pause=1000&color=007107&center=true&width=1000&lines=-------------------------------------------------------------------------------------------------" alt="Typing SVG" /></a>
 </p> 
-<br></br>
 
 ## I need Coffee!!! 
 
@@ -137,12 +138,11 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnet
 </div>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=50&size=25&pause=1000&color=de59c2&center=true&width=1000&lines=-------------------------------------------------------------------------------------------------" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=50&size=25&pause=1000&color=a3084c&center=true&width=1000&lines=-------------------------------------------------------------------------------------------------" alt="Typing SVG" /></a>
 </p> 
 
 <div align="center">
   <img height="30" alt="Thanks for visiting me" width="100%" src="https://github.com/anajulialeite/anajulialeite/blob/main/Obrigada%20RJ.svg" />
-<br></br>
 </div>
 
 <!-- FOOTER ANIMATION (Radical Theme) -->
