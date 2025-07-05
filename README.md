@@ -1,6 +1,6 @@
-<!-- HEADER ANIMATION (Radical Theme) -->
+<!-- HEADER ANIMATION com variações de roxo -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:FF005C,50:B62BFF,100:141321&section=header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:F3A8FC,50:DB1DE5,100:8C1E9E&section=header" width="100%"/>
 </p>
 
 <!--Title @AnaJúliaLeite-->
@@ -151,14 +151,14 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnet
 <h3 align="center">Dev com alma roxa • Back-end em .NET • movida a ☕ e Purple Rain 🎸</h3>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=50&size=25&pause=1000&color=a3084c&center=true&width=1000&lines=-------------------------------------------------------------------------------------------------" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=50&size=25&pause=1000&color=513592&center=true&width=1000&lines=-------------------------------------------------------------------------------------------------" alt="Typing SVG" /></a>
 </p> 
 
 <div align="center">
   <img height="30" alt="Thanks for visiting me" width="100%" src="https://github.com/anajulialeite/anajulialeite/blob/main/Obrigada%20RJ.svg" />
 </div>
 
-<!-- FOOTER ANIMATION (Radical Theme) -->
+<!-- FOOTER ANIMATION com variações de roxo -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:FF005C,50:B62BFF,100:141321&section=footer&reversal=true" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:F3A8FC,50:DB1DE5,100:8C1E9E&section=footer&reversal=true" width="100%"/>
 </p>
