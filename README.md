@@ -146,8 +146,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnet
 <div align="center">
   <img height="30" alt="Thanks for visiting me" width="100%" src="https://github.com/anajulialeite/anajulialeite/blob/main/Obrigada%20RJ.svg" />
 <br></br>
-<div align="center">
-</div>
 
 <!-- FOOTER ANIMATION (Radical Theme) -->
 <p align="center">
