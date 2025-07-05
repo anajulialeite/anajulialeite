@@ -63,6 +63,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnet
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Estatística
 
+<img height="1000em" src="https://img.shields.io/badge/ASP.NET%20-Developer-blueviolet?style=for-the-badge"/>
+
 <div>
 <a href="https://github.com/anajulialeite"> </a>
 <img height="280em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anajulialeite&layout=compact&cache_seconds=1800&langs_count=20&show_icons=true&title_color=B77EFF&icon_color=9640FF&text_color=fff&bg_color=30,DB1DE5,220140"/>
