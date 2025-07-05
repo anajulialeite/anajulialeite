@@ -27,7 +27,7 @@
 <img src="https://github.com/anajulialeite/anajulialeite/blob/main/ChatGPT.png" width="400"/>
 </div>
 
-## 💻 Tecnologias
+## 💻 Tecnologias que uso no dia a dia
 
 🧩 Back-end: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/> <img 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="40" height="40"/>
