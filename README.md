@@ -7,11 +7,11 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Itim&pause=1000&color=513592&random=false&width=435&lines=Meu+nome+%C3%A9+Ana+J%C3%BAlia.+;Seja+Bem+vindo(a)+ao+meu+GitHub!" alt="Typing SVG" /></a>
 <!--<div align="center">
 </div>-->
-<hr>
 
+<hr>
 # Eu sou a Ana Júlia Leite 👋
-
 <hr>
+
 <ul>
   <li>Apaixonada por tecnologia</li>
   <li>Acadêmica de <strong>SIS</strong></li>
@@ -23,7 +23,7 @@
   <li>Apaixonada por um bom café ☕</li>
 </ul>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Estou aprendendo
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25" /> Estou aprendendo
 <img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
@@ -56,7 +56,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnet
 ## Contato
 
 <div>
-</a> <a href="https://anajulialeite.github.io/Meu_Portifolio/" title="Portfolio"><img alt="Email"  src="https://img.shields.io/badge/website-f59042?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+<a href="https://anajulialeite.github.io/Meu_Portifolio/" title="Portfolio"><img alt="Email"  src="https://img.shields.io/badge/website-f59042?style=for-the-badge&logo=About.me&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/ana-j%C3%BAlia-de-lima-aguiar-leite-009a58209/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href = "mailto:leite.anajulia25@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href="https://wa.me/+55061996773513" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> <a href="https://discord.com/users/Ana#Júlia#9932" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> <a href="https://www.instagram.com/julindaleite/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <a target="_blank" rel="noopener noreferrer" href="https://telegram.me/AnaJuliaLeite">
 <img src="https://img.shields.io/badge/telegram-a?logo=telegram&color=30ADED&logoColor=white&style=for-the-badge" alt="Telegram" />
 <a href="https://github.com/anajulialeite" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
