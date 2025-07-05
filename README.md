@@ -75,10 +75,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnet
   
 ![](https://github-widgetbox.vercel.app/api/profile?username=anajulialeite&data=followers,repositories,stars,commits&theme=nautilus)
 
-<p align="left" dir="auto">
-     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" </>
-</p>
-
 ## Contador de visitas
 
 <div align="center" style="position: relative;">
