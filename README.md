@@ -5,12 +5,10 @@
 
 <!--Title @AnaJúliaLeite-->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Itim&pause=1000&color=513592&random=false&width=435&lines=Meu+nome+%C3%A9+Ana+J%C3%BAlia.+;Seja+Bem+vindo(a)+ao+meu+GitHub!" alt="Typing SVG" /></a>
-<!--<div align="center">
-</div>-->
 
 <hr>
 
-# Eu sou a Ana Júlia Leite 👋
+#  💜 Eu sou a Ana Júlia Leite 💜
 
 <hr>
 
@@ -55,7 +53,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnet
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-plain.svg" width="40" height="40"/>
 
-## Contato
+## 🗨️ Contato
 
 <div>
 <a href="https://anajulialeite.github.io/Meu_Portifolio/" title="Portfolio"><img alt="Email"  src="https://img.shields.io/badge/website-f59042?style=for-the-badge&logo=About.me&logoColor=white"/></a>
@@ -76,7 +74,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnet
   
 ![](https://github-widgetbox.vercel.app/api/profile?username=anajulialeite&data=followers,repositories,stars,commits&theme=nautilus)
 
-## Contador de visitas
+## 🧮 Contador de visitas
 
 <div align="center" style="position: relative;">
   <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/left.png" style="position: absolute; left: 0; top: 50%; transform: translateY(-50%);"/>
@@ -84,7 +82,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnet
   <p align="center" height="150" style="display: inline-block; margin: 0; z-index: 1;"><img align="center" src="https://profile-counter.glitch.me/{mmvonnseek}/count.svg" /></p>
 </div>
 
-## Jogo da cobrinha
+## 🐍 Jogo da cobrinha
 
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=50&size=25&pause=1000&color=007107&center=true&width=1000&lines=-------------------------------------------------------------------------------------------------" alt="Typing SVG" /></a>
@@ -100,7 +98,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnet
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=50&size=25&pause=1000&color=007107&center=true&width=1000&lines=-------------------------------------------------------------------------------------------------" alt="Typing SVG" /></a>
 </p> 
 
-## I need Coffee!!! 
+## ☕ I need Coffee!!! 
 
     ...C#
     while (true)
@@ -136,6 +134,23 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnet
 <div align="center">
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="300px" width="300px" alt="Computador IuriCode"/>
 </div>
+
+<div>
+  <a href="#">
+    <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+  </a>
+</div>
+
+## 🎧 Minha alma roxa vibra aqui:
+<br>
+
+[![Play Purple Rain](https://img.shields.io/badge/Play_Purple_Rain-%23513592?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/54X78diSLoUDI3joC2bjMz)
+
+</br>
+
+[![Play Violet the Organ Grinder](https://img.shields.io/badge/Play_Violet_the_Organ_Grinder-%23513592?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/09Om6c15poPyH0UNTpXJBu)
+
+
 
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=50&size=25&pause=1000&color=a3084c&center=true&width=1000&lines=-------------------------------------------------------------------------------------------------" alt="Typing SVG" /></a>
