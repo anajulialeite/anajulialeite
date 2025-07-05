@@ -19,7 +19,6 @@
   <li><strong>Estudante dedicada, sempre criando projetos práticos</strong></li>
   <li><strong>Entusiasta de UI/UX, criatividade e organização</strong></li>
   <li><strong>Transformo ideias em experiências digitais incríveis</strong></li>
-  <li><strong>Crio seu perfil do GitHub, seu currículo no Linkedin e faço seu Portfólio Profissional, entre em contato!</strong></li>
   <li>Apaixonada por um bom café ☕</li>
 </ul>
 
