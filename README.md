@@ -10,6 +10,7 @@
 
 <ul>
   <li>Acadêmica de <strong>SIS</strong></li>
+  <li>Focada em <strong>back-end</strong></li>
   <li><strong>Desenvolvedora C# com foco em ASP.NET</strong></li>
   <li><strong>Estudante dedicada, sempre criando projetos práticos</strong></li>
   <li><strong>Entusiasta de UI/UX, criatividade e organização</strong></li>
@@ -47,31 +48,24 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnet
   <a href="https://seu-portfolio.com" style="text-decoration:none" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portf%C3%B3lio-%23B77EFF?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfólio"/>
   </a>
-  &nbsp;
   <a href="https://linkedin.com/in/anajulialeite" style="text-decoration:none" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-%239640FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  &nbsp;
   <a href="mailto:seuemail@email.com" style="text-decoration:none" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/E-mail-%237D00FF?style=for-the-badge&logo=mail&logoColor=white" alt="E-mail"/>
   </a>
-  &nbsp;
   <a href="https://wa.me/seunumero" style="text-decoration:none" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/WhatsApp-%236A00D9?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
-  &nbsp;
   <a href="https://discord.gg/seucodigo" style="text-decoration:none" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Discord-%235600B8?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
-  &nbsp;
   <a href="https://instagram.com/anajulialeite" style="text-decoration:none" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Instagram-%2344008A?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  &nbsp;
   <a href="https://t.me/anajulialeite" style="text-decoration:none" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Telegram-%232F0061?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
-  &nbsp;
   <a href="https://github.com/anajulialeite" style="text-decoration:none" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-%231C003F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
