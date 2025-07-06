@@ -45,8 +45,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnet
 ## 🗨️ Contato
 
 <p align="center">
-  <a href="https://seu-portfolio.com" style="text-decoration:none" target="_blank" rel="noopener noreferrer">
-    <img src="https://anajulialeite.github.io/Meu_Portifolio/-%23B77EFF?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfólio"/>
+  <a href="https://anajulialeite.github.io/Meu_Portifolio/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Portfólio-%23B77EFF?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfólio" />
   </a>
   <a href="https://linkedin.com/in/anajulialeite" style="text-decoration:none" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-%239640FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
