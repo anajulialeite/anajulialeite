@@ -5,7 +5,7 @@
 
 <!--Title @AnaJúliaLeite-->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Itim&pause=1000&color=513592&width=435&lines=Oi,+eu+sou+a+Ana+J%C3%BAlia!;Bem-vindo(a)+ao+meu+GitHub!;Desenvolvedora+C%23+e+apaixonada+por+tecnologia." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Itim&pause=1000&color=513592&size=30&width=435&lines=Oi,+eu+sou+a+Ana+J%C3%BAlia!;Bem-vindo(a)+ao+meu+GitHub!;Desenvolvedora+C%23,;apaixonada+por+tecnologia." alt="Typing SVG" />
 </p>
 
 <ul>
