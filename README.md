@@ -17,7 +17,7 @@
   <li><strong>Transformo ideias em experiências digitais incríveis</strong></li>
   <li>Apaixonada por um bom café ☕</li>
 </ul>
-
+<br>
 <div align="center">
 <img src="https://github.com/anajulialeite/anajulialeite/blob/main/ChatGPT.png" width="400"/>
 </div>
