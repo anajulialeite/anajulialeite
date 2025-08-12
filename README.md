@@ -160,6 +160,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnet
 
 [![Play Purple Rain](https://img.shields.io/badge/Play_Purple_Rain-%23513592?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/54X78diSLoUDI3joC2bjMz)
 
+[![Spotify](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31dpavbolpv3p4ezmds75qksrury&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=710080)](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31dpavbolpv3p4ezmds75qksrury&redirect=true)
+
 </br>
 
 <h1 align="center">
