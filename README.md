@@ -96,11 +96,12 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnet
 
 ## 🧮 Contador de visitas
 
-<div align="center" style="position: relative;">
-  <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/left.png" style="position: absolute; left: 0; top: 50%; transform: translateY(-50%);"/>
-  <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/right.png" style="position: absolute; right: 0; top: 50%; transform: translateY(-50%);"/>
-  <p align="center" height="150" style="display: inline-block; margin: 0; z-index: 1;"><img align="center" src="https://profile-counter.glitch.me/{mmvonnseek}/count.svg" /></p>
+<div align="center">
+  <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/left.png"/>
+  <img src="https://komarev.com/ghpvc/?username=mmvonnseek&color=2d0b63" alt="Contador de visitas" width="130" height="80"/>
+  <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/right.png"/>
 </div>
+
 
 ## 🐍 Jogo da cobrinha
 
