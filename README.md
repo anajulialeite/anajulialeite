@@ -173,6 +173,12 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnet
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=50&size=25&pause=1000&color=513592&center=true&width=1000&lines=-------------------------------------------------------------------------------------------------" alt="Typing SVG" /></a>
 </p> 
 
+<div align="right">
+  <a href="#top" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Scroll%20Up-513592?style=for-the-badge&logo=&logoColor=ffffff&labelColor=513592&color=513592" alt="Scroll Up"/>
+  </a>
+</div>
+
 <div align="center">
   <img height="30" alt="Thanks for visiting me" width="100%" src="https://github.com/anajulialeite/anajulialeite/blob/main/Obrigada%20RJ.svg" />
 </div>
