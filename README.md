@@ -8,15 +8,21 @@
   <img src="https://readme-typing-svg.demolab.com?font=Itim&pause=1000&color=513592&size=30&width=435&lines=Oi,+eu+sou+a+Ana+J%C3%BAlia!;Bem-vindo(a)+ao+meu+GitHub!;Desenvolvedora+C%23,;apaixonada+por+tecnologia." alt="Typing SVG" />
 </p>
 
-<ul>
-  <li>Acadêmica de <strong>SIS</strong></li>
-  <li>Focada em <strong>back-end</strong></li>
-  <li><strong>Desenvolvedora C# com foco em ASP.NET</strong></li>
-  <li><strong>Estudante dedicada, sempre criando projetos práticos</strong></li>
-  <li><strong>Entusiasta de UI/UX, criatividade e organização</strong></li>
-  <li><strong>Transformo ideias em experiências digitais incríveis</strong></li>
-  <li>Apaixonada por um bom café ☕</li>
-</ul>
+
+  ✔️ Acadêmica de <strong>SIS</strong>
+  
+  ✔️ Focada em <strong>back-end</strong>
+  
+  ✔️ <strong>Desenvolvedora C# com foco em ASP.NET</strong>
+  
+  ✔️ <strong>Estudante dedicada, sempre criando projetos práticos</strong>
+  
+  ✔️ <strong>Entusiasta de UI/UX, criatividade e organização</strong>
+  
+  ✔️ <strong>Transformo ideias em experiências digitais incríveis</strong>
+  
+  ✔️ Apaixonada por um bom café ☕
+
 <br>
 <div align="center">
 <img src="https://github.com/anajulialeite/anajulialeite/blob/main/ChatGPT.png" width="400"/>
