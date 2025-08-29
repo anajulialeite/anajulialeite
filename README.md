@@ -9,12 +9,10 @@
 </p>
 
 <div align="right">
-  <a href="#fim-da-página" style="text-decoration: none;">
+  <a href="#fim-da-pagina">
     <img src="https://img.shields.io/badge/Scroll%20Down-513592?style=for-the-badge&logo=&logoColor=ffffff&labelColor=513592&color=513592" alt="Scroll Down"/>
   </a>
 </div>
-
-
 
   ✔️ Acadêmica de <strong>SIS</strong>
   
