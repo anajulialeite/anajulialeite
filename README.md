@@ -8,12 +8,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Itim&pause=1000&color=513592&size=30&width=435&lines=Oi,+eu+sou+a+Ana+J%C3%BAlia!;Bem-vindo(a)+ao+meu+GitHub!;Desenvolvedora+C%23,;apaixonada+por+tecnologia." alt="Typing SVG" />
 </p>
 
-<div align="right">
-  <a href="#fim-da-pagina">
-    <img src="https://img.shields.io/badge/Scroll%20Down-513592?style=for-the-badge&logo=&logoColor=ffffff&labelColor=513592&color=513592" alt="Scroll Down"/>
-  </a>
-</div>
-
   ✔️ Acadêmica de <strong>SIS</strong>
   
   ✔️ Focada em <strong>back-end</strong>
