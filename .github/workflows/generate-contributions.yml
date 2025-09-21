@@ -1,0 +1,33 @@
+name: Generate GitHub Contributions Chart
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # roda todo dia à meia-noite
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v3
+
+    - name: Generate Contributions Chart
+      uses: tj-actions/gh-contributions-chart@v1
+      with:
+        username: anajulialeite  # seu usuário GitHub
+        output: ./contributions.svg
+        theme: dark  # deixa dark
+        color: "#8A2BE2"  # roxo escuro
+        background: "#1B1B1B"  # fundo dark quase preto
+
+    - name: Commit and Push SVG
+      run: |
+        git config --global user.name 'GitHub Actions'
+        git config --global user.email 'actions@github.com'
+        git add contributions.svg
+        git commit -m "Atualiza gráfico de contribuições"
+        git push
