@@ -118,6 +118,10 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnet
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=50&size=25&pause=1000&color=007107&center=true&width=1000&lines=-------------------------------------------------------------------------------------------------" alt="Typing SVG" /></a>
 </p> 
 
+## Commits
+
+![Contribuições Roxas](https://github-contributions.vercel.app/anajulialeite.svg?scheme=purple)
+
 ## ☕ I need Coffee!!! 
 
     ...C#
