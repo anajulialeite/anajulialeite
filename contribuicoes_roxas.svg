@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="120">
+  <!-- Fundo escuro -->
+  <rect width="100%" height="100%" fill="#1e1e2f"/>
+
+  <!-- Quadradinhos de contribuições -->
+  <rect x="10" y="10" width="10" height="10" fill="#6b21a8"/>
+  <rect x="25" y="10" width="10" height="10" fill="#7c3aed"/>
+  <rect x="40" y="10" width="10" height="10" fill="#9d4edd"/>
+  <rect x="55" y="10" width="10" height="10" fill="#c084fc"/>
+  
+  <rect x="10" y="25" width="10" height="10" fill="#6b21a8"/>
+  <rect x="25" y="25" width="10" height="10" fill="#7c3aed"/>
+  <rect x="40" y="25" width="10" height="10" fill="#9d4edd"/>
+  <rect x="55" y="25" width="10" height="10" fill="#c084fc"/>
+  
+  <!-- Continue com o padrão para os próximos dias -->
+</svg>
