@@ -120,7 +120,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnet
 
 ## Commits
 
-![Contribuições Roxas](https://ghchart.rshah.org/7C00A8/anajulialeite)
+![Contribuições Roxas](https://ghchart.rshah.org/7C00A8/anajulialeite?nocache=20250930)
 
 ## ☕ I need Coffee!!! 
 
