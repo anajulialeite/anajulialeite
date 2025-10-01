@@ -56,8 +56,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnet
   <a href="https://www.linkedin.com/in/anajulialimaleite/" style="text-decoration:none" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-%239640FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:davidgalvao555@gmail.com" target="_blank"><img alt="Email"
-        src="https://img.shields.io/badge/Email-%237D00FF?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:leite.anajulia25@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-%237D00FF?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://wa.me/+55061996773513" style="text-decoration:none" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/WhatsApp-%236A00D9?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
