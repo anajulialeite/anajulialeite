@@ -8,19 +8,19 @@
   <img src="https://readme-typing-svg.demolab.com?font=Itim&pause=1000&color=513592&size=30&width=435&lines=Oi,+eu+sou+a+Ana+J%C3%BAlia!;Bem-vindo(a)+ao+meu+GitHub!;Desenvolvedora+C%23,;apaixonada+por+tecnologia." alt="Typing SVG" />
 </p>
 
-  ✔️ Acadêmica de <strong>SIS</strong>
+✔️ Acadêmica de <strong>SIS</strong>
   
-  ✔️ Focada em <strong>back-end</strong>
-  
-  ✔️ <strong>Desenvolvedora C# com foco em ASP.NET</strong>
-  
-  ✔️ <strong>Estudante dedicada, sempre criando projetos práticos</strong>
-  
-  ✔️ <strong>Entusiasta de UI/UX, criatividade e organização</strong>
-  
-  ✔️ <strong>Transformo ideias em experiências digitais incríveis</strong>
-  
-  ✔️ Apaixonada por um bom café ☕
+✔️ Focada em <strong>back-end</strong>
+
+✔️ Apaixonada por um bom café ☕
+ 
+✔️ <strong>Desenvolvedora C# com foco em ASP.NET</strong>
+
+✔️ <strong>Entusiasta de UI/UX, criatividade e organização</strong>
+
+✔️ <strong>Transformo ideias em experiências digitais incríveis</strong>
+
+✔️ <strong>Estudante dedicada, sempre criando projetos práticos</strong>
 
 <br>
 <div align="center">
