@@ -175,15 +175,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnet
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31dpavbolpv3p4ezmds75qksrury&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
-<p align="center">
- <img src="https://raw.githubusercontent.com/seanprashad/slackmoji/master/emoji/parrots/parrot-headset.gif" height="50" width="50">
- <img src="https://raw.githubusercontent.com/seanprashad/slackmoji/master/emoji/parrots/parrot-laptop.gif" height="50" width="50">
- <img src="https://raw.githubusercontent.com/seanprashad/slackmoji/master/emoji/parrots/parrot-reverse.gif" height="50" width="50">
- <img src="https://raw.githubusercontent.com/seanprashad/slackmoji/master/emoji/parrots/parrot-reverse.gif" height="50" width="50">
- <img src="https://raw.githubusercontent.com/seanprashad/slackmoji/master/emoji/parrots/parrot-reverse.gif" height="50" width="50">
- <img src="https://raw.githubusercontent.com/seanprashad/slackmoji/master/emoji/parrots/parrot-reverse.gif" height="50" width="50">
- <img src="https://raw.githubusercontent.com/seanprashad/slackmoji/master/emoji/parrots/parrot-reverse.gif" height="50" width="50">
-
 </p>
 
 </br>
