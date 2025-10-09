@@ -13,10 +13,10 @@
 ✔️ Focada em <strong>back-end</strong>
 
 ✔️ Apaixonada por um bom café ☕
- 
-✔️ <strong>Desenvolvedora C# com foco em ASP.NET</strong>
 
-✔️ <strong>Entusiasta de UI/UX, criatividade e organização</strong>
+✔️ Desenvolvedora <strong>C#</strong> com foco em <strong>ASP.NET</strong>
+
+✔️ Entusiasta de <strong>UI/UX</strong>, criatividade e organização
 
 ✔️ <strong>Transformo ideias em experiências digitais incríveis</strong>
 
