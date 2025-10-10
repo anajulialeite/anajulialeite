@@ -77,9 +77,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnet
   </a>
 </p>
 
- [![GitHub followers](https://img.shields.io/github/followers/anajulialeite.svg?style=social&label=Follow&maxAge=30000&r=5465465)](https://github.com/anajulialeite?tab=followers)
- <td><img alt="GitHub User's stars" src="https://img.shields.io/github/stars/anajulialeite"></td>
-
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Estatística
 
 <p align="center">
@@ -93,6 +90,9 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnet
 </div>
   
 ![](https://github-widgetbox.vercel.app/api/profile?username=anajulialeite&data=followers,repositories,stars,commits&theme=nautilus)
+
+[![GitHub followers](https://img.shields.io/github/followers/anajulialeite.svg?style=social&label=Follow&maxAge=30000&r=5465465)](https://github.com/anajulialeite?tab=followers)
+<td><img alt="GitHub User's stars" src="https://img.shields.io/github/stars/anajulialeite"></td>
 
 ## 🧮 Contador de visitas
 
