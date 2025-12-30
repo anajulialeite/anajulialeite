@@ -10,7 +10,7 @@
 
 ✔️ Acadêmica de <strong>SIS</strong>
   
-✔️ Focada em <strong>back-end</strong>
+✔️ Focada em <strong>Back-End</strong>
 
 ✔️ Apaixonada por um bom café ☕
 
