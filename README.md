@@ -118,7 +118,7 @@
 
 ## Commits
 
-![Contribuições Roxas](https://ghchart.rshah.org/7C00A8/anajulialeite?nocache=20250930)
+![Contribuições Roxas](https://ghchart.rshah.org/7C00A8/anajulialeite?nocache=20260102)
 
 ## ☕ I need Coffee!!! 
 
