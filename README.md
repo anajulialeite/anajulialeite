@@ -116,7 +116,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=50&size=25&pause=1000&color=007107&center=true&width=1000&lines=-------------------------------------------------------------------------------------------------" alt="Typing SVG" /></a>
 </p> 
 
-## Commits
+## 🟪 Commits
 
 ![Contribuições Roxas](https://ghchart.rshah.org/7C00A8/anajulialeite?nocache=20260127)
 
@@ -146,6 +146,7 @@
     }
     //let's have coffee
     ...
+## ®️ Minha Logo
 
 <div>
   <a href="#">
@@ -154,11 +155,7 @@
 </div>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="300px" width="300px" alt="Computador IuriCode"/>
-</div>
-
-<div align="center"
-<img width="192" height="192" alt="android-chrome-192x192" src="https://github.com/user-attachments/assets/b52005fd-feff-4ee9-adc8-fc2e71239647" />
+  <img src="https://github.com/user-attachments/assets/b52005fd-feff-4ee9-adc8-fc2e71239647" width="192" height="192" alt="android-chrome-192x192" style="display: inline-block; vertical-align: middle;" />
 </div>
 
 <div>
