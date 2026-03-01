@@ -157,6 +157,10 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="300px" width="300px" alt="Computador IuriCode"/>
 </div>
 
+<div align="center"
+<img width="192" height="192" alt="android-chrome-192x192" src="https://github.com/user-attachments/assets/b52005fd-feff-4ee9-adc8-fc2e71239647" />
+</div>
+
 <div>
   <a href="#">
     <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
