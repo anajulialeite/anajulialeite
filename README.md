@@ -53,25 +53,13 @@
     <img src="https://img.shields.io/badge/Portfólio-%23B77EFF?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfólio" />
   </a>
   <a href="https://www.linkedin.com/in/anajulialimaleite/" style="text-decoration:none" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-%239640FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-%238440FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:leite.anajulia25@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-%237D00FF?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-%235000D9?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://wa.me/+55061996773513" style="text-decoration:none" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/WhatsApp-%236A00D9?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-  </a>
-  <a href="https://discord.com/users/Ana#Júlia#9932" style="text-decoration:none" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Discord-%235600B8?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
-  <a href="https://www.instagram.com/julindaleite/" style="text-decoration:none" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Instagram-%2344008A?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://telegram.me/AnaJuliaLeite" style="text-decoration:none" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Telegram-%232F0061?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
-  <a href="https://github.com/anajulialeite" style="text-decoration:none" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-%231C003F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/WhatsApp-%231C003F?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
 </p>
 
