@@ -100,9 +100,19 @@
 ## 🧮 Contador de visitas
 
 <div align="center">
+  <div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
+    
   <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/left.png"/>
-  <img src="https://komarev.com/ghpvc/?username=mmvonnseek&color=2d0b63" alt="Contador de visitas" width="130" height="80"/>
+    
+  <img 
+      src="https://komarev.com/ghpvc/?username=mmvonnseek&color=2d0b63"
+      alt="Contador de visitas"
+      height="60"
+    />
+    
   <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/right.png"/>
+  
+  </div>
 </div>
 
 ## 🐍 Jogo da cobrinha
