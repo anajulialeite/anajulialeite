@@ -198,11 +198,23 @@
 
 </br>
 
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/anajulialeite/anajulialeite/main/LS.png" alt="Ana Júlia Logo" width="32" height="32" />
-  Eu sou a Ana Júlia Leite!
-  <img src="https://raw.githubusercontent.com/anajulialeite/anajulialeite/main/LS.png" alt="Ana Júlia Logo" width="32" height="32" />
-</h1>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://raw.githubusercontent.com/anajulialeite/anajulialeite/main/LS.png" width="32" height="32"/>
+      </td>
+      
+  <td>
+        <h1 style="margin: 0;">Eu sou a Ana Júlia Leite!</h1>
+      </td>
+      
+  <td>
+        <img src="https://raw.githubusercontent.com/anajulialeite/anajulialeite/main/LS.png" width="32" height="32"/>
+      </td>
+    </tr>
+  </table>
+</div>
 <h3 align="center">Dev com alma roxa • Back-end em .NET • movida a ☕ e Purple Rain 🎸</h3>
 
 <p align="center">
