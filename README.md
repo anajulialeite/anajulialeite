@@ -137,10 +137,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=50&size=25&pause=1000&color=513592&center=true&width=1000&lines=-------------------------------------------------------------------------------------------------" alt="Typing SVG" /></a>
 </p> 
 
-## 🟪 Commits
-
-![Contribuições Roxas](https://ghchart.rshah.org/7C00A8/anajulialeite?nocache=20260127)
-
 ## ☕ I need Coffee!!! 
 
     ...C#
