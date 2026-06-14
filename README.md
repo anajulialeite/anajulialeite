@@ -108,7 +108,7 @@
       
   <td align="center">
         <img 
-          src="https://komarev.com/ghpvc/?username=mmvonnseek&color=2d0b63"
+          src="https://komarev.com/ghpvc/?username=anajulialeite&color=2d0b63"
           alt="Contador de visitas"
           height="60"
         />
@@ -146,7 +146,7 @@
     ...C#
     while (true)
     {
-    string coffee = "Cofee situation.";
+    string coffee = "Coffee situation.";
     
     if (coffee == "Empty")
     {
