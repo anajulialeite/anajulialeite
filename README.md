@@ -56,6 +56,16 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" align="center" width="40" height="40"/>
  <br>
 
+ ## 🚀 Projeto em Destaque Atualmente
+
+🍕 Cardápio Online (TCC)
+
+HTML5 • CSS3 • JavaScript • Node.js • Express • SQL Server
+
+Projeto desenvolvido para meu TCC, com foco em gerenciamento de cardápios digitais, experiência do usuário e desenvolvimento full stack.
+
+Link do <a href= "https://anajulialeite.github.io/Cardapio_Online_TCC_II/">Cardápio Online</a>
+
 ## 🗨️ Contato
 
 <p align="center">
