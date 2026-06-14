@@ -200,7 +200,7 @@ Projeto desenvolvido para meu TCC, com foco em gerenciamento de cardápios digit
 ## 🎧 Minha alma roxa vibra aqui:
 <br>
 
-[![Play Purple Rain](https://img.shields.io/badge/Play_Purple_Rain-%23513592?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/54X78diSLoUDI3joC2bjMz)
+☔ [![Play Purple Rain](https://img.shields.io/badge/Play_Purple_Rain-%23513592?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/54X78diSLoUDI3joC2bjMz) ☔
 
 <p align="center"
 
