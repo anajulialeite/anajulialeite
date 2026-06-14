@@ -121,7 +121,7 @@
   </table>
 </div>
 
-## 🐍 Jogo da cobrinha
+## 💜 Purple Snake
 
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=50&size=25&pause=1000&color=7D00FF&center=true&width=1000&lines=-------------------------------------------------------------------------------------------------" alt="Typing SVG" /></a>
