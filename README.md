@@ -64,7 +64,13 @@ HTML5 • CSS3 • JavaScript • Node.js • Express • SQL Server
 
 Projeto desenvolvido para meu TCC, com foco em gerenciamento de cardápios digitais, experiência do usuário e desenvolvimento full stack.
 
-Link do <a href= "https://anajulialeite.github.io/Cardapio_Online_TCC_II/">Cardápio Online</a>
+<a href="https://anajulialeite.github.io/Cardapio_Online_TCC_II/">
+  <img src="https://img.shields.io/badge/Demo_Online-7D00FF?style=for-the-badge" />
+</a>
+
+<a href="https://github.com/anajulialeite/Cardapio_Online_TCC_II">
+  <img src="https://img.shields.io/badge/Repositório-513592?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 ## 🗨️ Contato
 
