@@ -10,7 +10,7 @@
 
 ✔️ Acadêmica de <strong>SIS</strong>
   
-✔️ Focada em <strong>Back-End</strong>
+✔️ Focada em <strong>Full Stack</strong>
 
 ✔️ Apaixonada por um bom café ☕
 
@@ -20,7 +20,7 @@
 
 ✔️ <strong>Transformo ideias em experiências digitais incríveis</strong>
 
-✔️ <strong>Estudante dedicada, sempre criando projetos práticos</strong>
+✔️ <strong>AJ - Criar e Desenvolver: soluções digitais com identidade e propósito</strong>
 
 <br>
 <div align="center">
