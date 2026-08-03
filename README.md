@@ -203,8 +203,8 @@ Projeto desenvolvido para meu TCC, com foco em gerenciamento de cardápios digit
 ☔ [![Play Purple Rain](https://img.shields.io/badge/Play_Purple_Rain-%23513592?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/54X78diSLoUDI3joC2bjMz) ☔
 
 <p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31dpavbolpv3p4ezmds75qksrury&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=780099">
+  <a href="https://github.com/anajulialeite">
+    <img src="https://my-spotify-github-profile-c16z.vercel.app/api/view?refresh_token=AQBYrEANonLafOYkbNHEO-DzahX4OjULXzLt4bkZDTQtslTNyxSgx4bsOQZBf_bkoY77oyZ3Smm8jjbBrEct6ZZAppwmf4VVsRdN7EUrRQ_Gu6I2XcwYUKa4xTI0gwel780&bar_color=780099">
   </a>
 </p>
 
