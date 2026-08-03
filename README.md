@@ -204,7 +204,7 @@ Projeto desenvolvido para meu TCC, com foco em gerenciamento de cardápios digit
 
 <p align="center">
   <a href="https://open.spotify.com/track/54X78diSLoUDI3joC2bjMz">
-    <img src="https://my-spotify-github-profile-c16z.vercel.app/api/view?refresh_token=AQDaSZ5ejXdK7oE62qxuRCFqYRAdq7H8kX9cQZcEpwPAO5cVP8oFjzcPjsYg2sPQV-rgI0Zi0tzYjNmm3qS9UiPoqWrnCvGMw3kMZoMLtNk3lN0K3FApWf6xdtFu6YisHEw&bar_color=780099">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31dpavbolpv3p4ezmds75qksrury&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=780099">
   </a>
 </p>
 
