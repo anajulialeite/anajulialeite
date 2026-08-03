@@ -203,9 +203,41 @@ Projeto desenvolvido para meu TCC, com foco em gerenciamento de cardápios digit
 ☔ [![Play Purple Rain](https://img.shields.io/badge/Play_Purple_Rain-%23513592?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/54X78diSLoUDI3joC2bjMz) ☔
 
 <p align="center">
-  <a href="https://github.com/anajulialeite">
-    <img src="https://my-spotify-github-profile-c16z.vercel.app/api/view?refresh_token=AQBYrEANonLafOYkbNHEO-DzahX4OjULXzLt4bkZDTQtslTNyxSgx4bsOQZBf_bkoY77oyZ3Smm8jjbBrEct6ZZAppwmf4VVsRdN7EUrRQ_Gu6I2XcwYUKa4xTI0gwel780&bar_color=780099">
+  <a href="https://open.spotify.com/track/54X78diSLoUDI3joC2bjMz">
+    <img src="https://my-spotify-github-profile-c16z.vercel.app/api/view?refresh_token=AQBYrEANonLafOYkbNHEO-DzahX4OjULXzLt4bkZDTQtslTNyxSgx4bsOQZBf_bkoY77oyZ3Smm8jjbBrEct6ZZAppwmf4VVsRdN7EUrRQ_Gu6I2XcwYUKa4xTI0gwel780&bar_color=780099&background_color=1e1e2f">
   </a>
+</p>
+
+### 🎨 Modelos de Temas do Spotify
+
+- **Default Theme (Padrão)**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kittinan/spotify-github-profile/master/img/default.svg" alt="Default theme" />
+</p>
+
+- **Compact Theme (Compacto)**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kittinan/spotify-github-profile/master/img/compact.svg" alt="Compact theme" />
+</p>
+
+- **Natemoo-re Theme**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kittinan/spotify-github-profile/master/img/natemoo-re.svg" alt="Natemoo-re theme" />
+</p>
+
+- **Novatorem Theme**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kittinan/spotify-github-profile/master/img/novatorem.svg" alt="Novatorem theme" />
+</p>
+
+- **Karaoke Theme**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kittinan/spotify-github-profile/master/img/karaoke.svg" alt="Karaoke theme" />
+</p>
+
+- **Spotify Embed Theme (Estilo Player)**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kittinan/spotify-github-profile/master/img/spotify-embed.svg" alt="Spotify Embed theme" />
 </p>
 
 </br>
