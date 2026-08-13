@@ -24,7 +24,7 @@
 
 <br>
 <div align="center">
-<img src="https://github.com/anajulialeite/anajulialeite/blob/main/ChatGPT.png" width="400"/>
+<img src="https://github.com/anajulialeite/anajulialeite/blob/main/ef813cf5-d9e2-4621-aefe-dd78cbc34546.png" width="400"/>
 </div>
 
 ## 💻 Tecnologias que uso no dia a dia
