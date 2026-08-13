@@ -8,19 +8,19 @@
   <img src="https://readme-typing-svg.demolab.com?font=Itim&pause=1000&color=513592&size=30&width=435&lines=Oi,+eu+sou+a+Ana+J%C3%BAlia!;Bem-vindo(a)+ao+meu+GitHub!;Desenvolvedora+C%23,;apaixonada+por+tecnologia." alt="Typing SVG" />
 </p>
 
-✔️ Acadêmica de <strong>SIS</strong>
-  
-✔️ Focada em <strong>Full Stack</strong>
-
 ✔️ Apaixonada por um bom café ☕
 
-✔️ Desenvolvedora <strong>C#</strong> com foco em <strong>ASP.NET</strong>
+✔️ Acadêmica de <strong>Sistemas de Informação</strong>
 
-✔️ Entusiasta de <strong>UI/UX</strong>, criatividade e organização
+✔️ Desenvolvedora <strong>C#/.NET</strong> e <strong>Java/Spring Boot</strong>
 
-✔️ <strong>Transformo ideias em experiências digitais incríveis</strong>
+✔️ Desenvolvedora de software focada em <strong>Back-end</strong>
 
-✔️ <strong>AJ - Criar e Desenvolver: soluções digitais com identidade e propósito</strong>
+✔️ Experiência com <strong>APIs REST e Banco de dados relacionais</strong>
+
+✔️ Desenvolvimento web com <strong>HTML5, CSS3, JavaScript e Bootstrap</strong>
+
+✔️ Construindo projetos com foco em <strong>organização, segurança e boas práticas</strong>
 
 <br>
 <div align="center">
@@ -29,31 +29,31 @@
 
 ## 💻 Tecnologias que uso no dia a dia
 
-🧩 Back-end: 
+💻 C#/.NET: 
 <br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" align="left" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" align="left" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" align="left" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" align="center" width="50" height="40"/>
-<br>
-<br>
-🎨 UI & Design: 
-<br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" align="left" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" align="left" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original.svg" align="center" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" align="left" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" align="left" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" align="left" width="40" height="40"/> <img src="https://github.com/anajulialeite/anajulialeite/blob/main/dotnet-maui.png" align="left" width="50" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blazor/blazor-original.svg" align="left" width="50" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/entityframeworkcore/entityframeworkcore-original.svg" align="center" width="50" height="40"/>
 <br>
 <br>
-🌐 Front-end básico:
+☕ Java:
 <br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" align="left" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" align="left" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" align="left" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" align="left" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" align="center" width="40" height="40"/>
-<br>
-<br>
-🔧 Ferramentas:
-<br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" align="left" width="40" height="40"/> <img src="https://img.icons8.com/?size=512&id=bVGqATNwfhYq&format=png" align="left" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" align="left" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" align="left" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" align="left" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unifiedmodelinglanguage/unifiedmodelinglanguage-plain.svg" align="center" width="40" height="40"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" align="left" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" align="left" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg" align="left" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/thymeleaf/thymeleaf-original.svg" align="left" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" align="center" width="40" height="40"/>
 <br>
 <br>
-🧑‍💻 IDE:
+🎨 Front-end:
 <br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" align="left" width="40" height="40"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" align="center" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" align="left" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" align="left" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" align="left" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" align="left" width="40" height="40"/> 
+<br>
+<br>
+🗄️ Banco de dados e Ferramentas:
+<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" align="left" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" align="left" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" align="left" width="40" height="40"/><img src="https://img.icons8.com/?size=512&id=bVGqATNwfhYq&format=png" align="center" width="40" height="40"/>
+<br>
+<br>
+🛠️ Ambiente e ferramentas:
+<br> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" align="left" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" align="left" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" align="left" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" align="center" width="40" height="40"/>
  <br>
 
  ## 🚀 Projeto em Destaque Atualmente
