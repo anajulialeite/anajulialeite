@@ -10,15 +10,15 @@
 
 ✔️ Apaixonada por um bom café ☕
 
-✔️ Acadêmica de <strong>Sistema de Informação</strong>
+✔️ Acadêmica de <strong>Sistemas de Informação</strong>
 
-✔️ Desenvolvedora <strong>C#/.NET</strong> e <strong>Java/Strong Boot</strong>
+✔️ Desenvolvedora <strong>C#/.NET</strong> e <strong>Java/Spring Boot</strong>
 
 ✔️ Desenvolvedora de software focada em <strong>Back-end</strong>
 
 ✔️ Experiência com <strong>APIs REST e Banco de dados relacionais</strong>
 
-✔️ Desenvolvimento web com <strong>HTML5, CSS3, JavaScripr e Bootstrap</strong>
+✔️ Desenvolvimento web com <strong>HTML5, CSS3, JavaScript e Bootstrap</strong>
 
 ✔️ Construindo projetos com foco em <strong>organização, segurança e boas práticas</strong>
 
@@ -31,7 +31,7 @@
 
 💻 C#/.NET: 
 <br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" align="left" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" align="left" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" align="left" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" align="left" width="50" height="40"/> <img src="https://github.com/anajulialeite/anajulialeite/blob/main/dotnet-maui.png" align="left" width="50" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blazor/blazor-original.svg" align="left" width="50" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/entityframeworkcore/entityframeworkcore-original.svg" align="center" width="50" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" align="left" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" align="left" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" align="left" width="40" height="40"/> <img src="https://github.com/anajulialeite/anajulialeite/blob/main/dotnet-maui.png" align="left" width="50" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blazor/blazor-original.svg" align="left" width="50" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/entityframeworkcore/entityframeworkcore-original.svg" align="center" width="50" height="40"/>
 <br>
 <br>
 ☕ Java:
@@ -39,7 +39,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" align="left" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" align="left" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg" align="left" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/thymeleaf/thymeleaf-original.svg" align="left" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" align="center" width="40" height="40"/>
 <br>
 <br>
-🎨 Front-end básico:
+🎨 Front-end:
 <br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" align="left" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" align="left" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" align="left" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" align="left" width="40" height="40"/> 
