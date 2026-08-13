@@ -175,7 +175,6 @@ Projeto desenvolvido para meu TCC, com foco em gerenciamento de cardápios digit
     }
     //let's have coffee
     ...
-## ®️ Minha Logo
 
 <div>
   <a href="#">
@@ -184,7 +183,7 @@ Projeto desenvolvido para meu TCC, com foco em gerenciamento de cardápios digit
 </div>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/b52005fd-feff-4ee9-adc8-fc2e71239647" width="192" height="192" alt="android-chrome-192x192" style="display: inline-block; vertical-align: middle;" />
+  <img src="https://github.com/anajulialeite/anajulialeite/blob/main/computer-illustration.png" width="300" height="300" alt="android-chrome-192x192" style="display: inline-block; vertical-align: middle;" />
 </div>
 
 <div>
