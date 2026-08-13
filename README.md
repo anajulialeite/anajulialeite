@@ -5,7 +5,7 @@
 
 <!--Title @AnaJúliaLeite-->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Itim&pause=1000&color=513592&size=30&width=435&lines=Oi,+eu+sou+a+Ana+J%C3%BAlia!;Bem-vindo(a)+ao+meu+GitHub!;Desenvolvedora+C%23,;apaixonada+por+tecnologia." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Itim&pause=1000&color=513592&size=30&width=650&lines=Oi,+eu+sou+a+Ana+J%C3%BAlia!;Foco+em+desenvolvimento+Back-end;Experi%C3%AAncia+com+APIs+REST;Projetos+com+C%23%2F.NET+e+Java%2FSpring+Boot" alt="Typing SVG" />
 </p>
 
 ✔️ Apaixonada por um bom café ☕
@@ -24,7 +24,7 @@
 
 <br>
 <div align="center">
-<img src="https://github.com/anajulialeite/anajulialeite/blob/main/ChatGPT.png" width="400"/>
+<img src="https://github.com/anajulialeite/anajulialeite/blob/main/ef813cf5-d9e2-4621-aefe-dd78cbc34546.png" width="400"/>
 </div>
 
 ## 💻 Tecnologias que uso no dia a dia
@@ -85,10 +85,6 @@ Projeto desenvolvido para meu TCC, com foco em gerenciamento de cardápios digit
 
   <a href="mailto:leite.anajulia25@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-%235A189A?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-
-  <a href="https://www.instagram.com/julindaleite/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%234C0F8A?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 
   <a href="https://wa.me/+55061996773513" target="_blank">
