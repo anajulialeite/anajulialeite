@@ -87,10 +87,6 @@ Projeto desenvolvido para meu TCC, com foco em gerenciamento de cardápios digit
     <img src="https://img.shields.io/badge/Email-%235A189A?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
-  <a href="https://www.instagram.com/julindaleite/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%234C0F8A?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-
   <a href="https://wa.me/+55061996773513" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-%233C096C?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
