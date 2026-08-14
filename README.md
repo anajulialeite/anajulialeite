@@ -45,6 +45,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" align="left" width="40" height="40"/> 
 <br>
 <br>
+<br>
 🗄️ Banco de dados e Ferramentas:
 <br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" align="left" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" align="left" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" align="left" width="40" height="40"/><img src="https://img.icons8.com/?size=512&id=bVGqATNwfhYq&format=png" align="center" width="40" height="40"/>
