@@ -55,7 +55,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" align="left" width="40" height="40"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" align="left" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" align="left" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" align="center" width="40" height="40"/>
  <br>
-
+ </br>
+ 
 ## 🚀 Projetos em Destaque
 
 ### 🍕 Cardápio Online (TCC)
@@ -71,8 +72,6 @@ Projeto desenvolvido como TCC, com cardápio digital, pedidos online, pagamento 
 <a href="https://github.com/anajulialeite/Cardapio_Online_TCC_II">
   <img src="https://img.shields.io/badge/Repositório-513592?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
-<br><br>
 
 ### 📦 EstoqueMaster — Sistema Web de Controle de Estoque
 
