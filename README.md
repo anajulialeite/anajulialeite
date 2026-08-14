@@ -111,7 +111,7 @@ Projeto próprio desenvolvido para gerenciamento e controle de estoque, com cada
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Estatística
 
 <p align="center">
-  <img width="800" src="https://img.shields.io/badge/Software%20Developer-C%23%2F.NET%20%7C%20Java%2FSpring%20Boot%20%7C%20JavaScript-%231C003F?style=for-the-badge" />
+  <img width="800" src="https://img.shields.io/badge/Software%20Developer-C%23%2F.NET%20%7C%20Java%2FSpring%20Boot%20%7C%20JavaScript-%232d0b63?style=for-the-badge" />
 </p>
 
 <div>
