@@ -56,19 +56,35 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" align="left" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" align="left" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" align="center" width="40" height="40"/>
  <br>
 
- ## 🚀 Projeto em Destaque Atualmente
+## 🚀 Projetos em Destaque
 
-🍕 Cardápio Online (TCC)
+### 🍕 Cardápio Online (TCC)
 
-HTML5 • CSS3 • JavaScript • Node.js • Express • SQL Server
+**HTML5 • CSS3 • JavaScript • Node.js • Express • SQL Server**
 
-Projeto desenvolvido para meu TCC, com foco em gerenciamento de cardápios digitais, experiência do usuário e desenvolvimento full stack.
+Projeto desenvolvido como TCC, com cardápio digital, pedidos online, pagamento via PIX e painel administrativo para gerenciamento de produtos e pedidos.
 
 <a href="https://anajulialeite.github.io/Cardapio_Online_TCC_II/">
   <img src="https://img.shields.io/badge/Demo_Online-7D00FF?style=for-the-badge" />
 </a>
 
 <a href="https://github.com/anajulialeite/Cardapio_Online_TCC_II">
+  <img src="https://img.shields.io/badge/Repositório-513592?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br><br>
+
+### 📦 EstoqueMaster — Sistema Web de Controle de Estoque
+
+**Java • Spring Boot • Spring Data JPA • Hibernate • Thymeleaf • H2 • Maven**
+
+Projeto próprio desenvolvido para gerenciamento e controle de estoque, com cadastro de produtos, categorias e fornecedores, movimentações de entrada e saída, controle de estoque mínimo, dashboard e relatórios.
+
+<a href="https://www.linkedin.com/feed/update/urn:li:ugcPost:7490958890801582080/">
+  <img src="https://img.shields.io/badge/Demo_Online-7D00FF?style=for-the-badge" />
+</a>
+
+<a href="https://github.com/anajulialeite/Controle_de_Estoque">
   <img src="https://img.shields.io/badge/Repositório-513592?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
