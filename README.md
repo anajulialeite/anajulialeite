@@ -114,11 +114,10 @@ Projeto próprio desenvolvido para gerenciamento e controle de estoque, com cada
   <img width="800" src="https://img.shields.io/badge/Software%20Developer-C%23%2F.NET%20%7C%20Java%2FSpring%20Boot%20%7C%20JavaScript-%232d0b63?style=for-the-badge" />
 </p>
 
-<div>
-<a href="https://github.com/anajulialeite"> </a>
-<img height="280em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anajulialeite&layout=compact&cache_seconds=1800&langs_count=30&show_icons=true&title_color=B77EFF&icon_color=9640FF&text_color=fff&bg_color=30,DB1DE5,220140"/>
-<img height="240em" src="https://github-readme-stats.vercel.app/api?username=anajulialeite&show_icons=true&cache_seconds=1800&count_private=true&disable_animations=false&title_color=B77EFF&icon_color=9640FF&text_color=fff&bg_color=30,220140,DB1DE5"/>
-</div>
+<p align="center">
+  <img height="185" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anajulialeite&layout=compact&langs_count=10&show_icons=true&title_color=B77EFF&icon_color=9640FF&text_color=fff&bg_color=30,DB1DE5,220140" />
+  <img height="185" src="https://github-readme-stats-eight-theta.vercel.app/api?username=anajulialeite&show_icons=true&count_private=true&disable_animations=false&title_color=B77EFF&icon_color=9640FF&text_color=fff&bg_color=30,220140,DB1DE5" />
+</p>
   
 ![](https://github-widgetbox.vercel.app/api/profile?username=anajulialeite&data=followers,repositories,stars,commits&theme=nautilus)
 
