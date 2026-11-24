@@ -60,17 +60,17 @@
  
 ## 🚀 Projetos em Destaque
 
-### 🍕 Cardápio Online (TCC)
+### 🎓 7Academy — Sistema de Gestão de Eventos Acadêmicos
 
-**HTML5 • CSS3 • JavaScript • Node.js • Express • SQL Server**
+**C# • .NET 8 • ASP.NET Core MVC • Entity Framework Core • SQL Server • ASP.NET Core Identity • QuestPDF • Bootstrap 5**
 
-Projeto desenvolvido como TCC, com cardápio digital, pedidos online, pagamento via PIX e painel administrativo para gerenciamento de produtos e pedidos.
+Plataforma web desenvolvida para gerenciamento de cursos e eventos acadêmicos, com autenticação e controle de acesso por perfil, inscrições de participantes, materiais de estudo em PDF, avaliações online com correção automática e emissão de certificados digitais.
 
-<a href="https://anajulialeite.github.io/Cardapio_Online_TCC_II/">
+<a href="https://7academy.runasp.net/">
   <img src="https://img.shields.io/badge/Demo_Online-7D00FF?style=for-the-badge" />
 </a>
 
-<a href="https://github.com/anajulialeite/Cardapio_Online_TCC_II">
+<a href="https://github.com/anajulialeite/7Academy">
   <img src="https://img.shields.io/badge/Repositório-513592?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
@@ -85,6 +85,20 @@ Projeto próprio desenvolvido para gerenciamento e controle de estoque, com cada
 </a>
 
 <a href="https://github.com/anajulialeite/Controle_de_Estoque">
+  <img src="https://img.shields.io/badge/Repositório-513592?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+### 🍕 Cardápio Online (TCC)
+
+**HTML5 • CSS3 • JavaScript • Node.js • Express • SQL Server**
+
+Projeto desenvolvido como TCC, com cardápio digital, pedidos online, pagamento via PIX e painel administrativo para gerenciamento de produtos e pedidos.
+
+<a href="https://anajulialeite.github.io/Cardapio_Online_TCC_II/">
+  <img src="https://img.shields.io/badge/Demo_Online-7D00FF?style=for-the-badge" />
+</a>
+
+<a href="https://github.com/anajulialeite/Cardapio_Online_TCC_II">
   <img src="https://img.shields.io/badge/Repositório-513592?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
